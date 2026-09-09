@@ -1,5 +1,8 @@
 # Cloud-Native Asset Management & Video Transcoding Platform
 
+
+![Cloud-Native Asset Management & Video Transcoding Platform Hero Dashboard](docs/screenshots/hero_dashboard.png)
+
 Media asset portal where user uploads trigger background worker tasks (Celery/Redis) to transcode high-resolution MP4/MOV videos into adaptive HLS (HTTP Live Streaming) playlists using FFmpeg pipelines.
 
 ## Features
